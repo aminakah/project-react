@@ -53,7 +53,7 @@ function App() {
         <div className="left">
           <h3>Montant</h3>
           <input type="text" 
-             placeholder="Entrer le montant a convertir the amount" 
+             placeholder="Entrer le montant a convertir " 
              onChange={(e) => setInput(e.target.value)} />
         </div>
         <div className="middle">
